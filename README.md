@@ -29,7 +29,7 @@ Grant <b>Serverless4HPC PID2023-152804OB-I00</b> funded by MICIU/AEI/10.13039/50
 
 ## Citation
 ```bibtex
-@article{macia-lillo_hybrid_2025,
+@article{macia-lillo_edge_2025,
 	title = {Edge Cloud service provisioning for Knowledge Management Smart Applications,
 	issn = {2045-2322},
 	journal = {Scientific Reports},
