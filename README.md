@@ -2,9 +2,9 @@
 <p align="center">AI Edge Cloud service provisioning for Knowledge Management Smart Applications</p>
 
 <p align="center">
-  <!-- <a href="https://doi.org/10.1109/TG.2025.3533949"> -->
+  <a href="https://www.nature.com/articles/s41598-025-14429-7">
     <img src="https://img.shields.io/badge/Scientific%20Reports-2025-blue" alt="Feature Requests">
-  <!-- </a> -->
+  </a>
 </p>
 
 This repository contains the experiment data from the experiments on the Edge-Cloud architecture for AI Knowledge Management applications. The experiments test the computation and data transmission times of the different layers of the architecture. This data is used in the results shown in the paper.
