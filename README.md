@@ -33,10 +33,13 @@ Grant <b>Serverless4HPC PID2023-152804OB-I00</b> funded by MICIU/AEI/10.13039/50
 	title = {Edge Cloud service provisioning for Knowledge Management Smart Applications,
 	issn = {2045-2322},
 	journal = {Scientific Reports},
+    volume = {15},
+    number = {32246},
 	author = {Maciá-Lillo, Antonio and Mora, Higinio and Jimeno-Morenilla, Antonio and García-D'Urso, Nahuel E. and Azorín-López Jorge},
 	year = {2025},
 	pages = {1--25},
-	note = {in press},
+	doi = {10.1038/s41598-025-14429-7},
+    url = {https://doi.org/10.1038/s41598-025-14429-7}
 }
 ```
 
